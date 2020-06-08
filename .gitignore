@@ -44,3 +44,25 @@
 /unicafe/yarn-debug.log*
 /unicafe/yarn-error.log*
 
+# dependencies
+/anecdotes/node_modules
+/anecdotes/.pnp
+/anecdotes/.pnp.js
+
+# testing
+/anecdotes/coverage
+
+# production
+/anecdotes/build
+
+# misc
+/anecdotes/.DS_Store
+/anecdotes/.env.local
+/anecdotes/.env.development.local
+/anecdotes/.env.test.local
+/anecdotes/.env.production.local
+
+/anecdotes/npm-debug.log*
+/anecdotes/yarn-debug.log*
+/anecdotes/yarn-error.log*
+
